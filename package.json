@@ -1,0 +1,10 @@
+{
+  "name": "arrays",
+  "version": "1.0.0",
+  "description": "Exercises and examples of array manipulation",
+  "main": "index.js",
+  "author": "Cale Woodley",
+  "license": "MIT",
+  "private": true,
+  "dependencies": {}
+}
